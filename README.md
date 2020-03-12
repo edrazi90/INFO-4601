@@ -1,2 +1,2 @@
 # INFO-4302
-Mobile Apps Development Project,KICT IIUM
+WebApp Security Class Project,KICT IIUM
